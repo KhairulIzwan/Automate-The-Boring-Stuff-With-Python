@@ -9,3 +9,5 @@
 6. [How can I get a list shape without using numpy?](https://stackoverflow.com/questions/51960857/how-can-i-get-a-list-shape-without-using-numpy/51961584)
 7. [Python | Printing list vertically](https://www.geeksforgeeks.org/python-printing-list-vertically/)
 8. [Transpose list of lists](https://stackoverflow.com/questions/6473679/transpose-list-of-lists)
+9. [How to check if a list is empty in Python?](https://flexiple.com/check-if-list-is-empty-python/)
+10. [Add an item to a list in Python (append, extend, insert)](https://note.nkmk.me/en/python-list-append-extend-insert/)
